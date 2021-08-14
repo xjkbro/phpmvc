@@ -1,0 +1,15 @@
+{
+    "name": "jason-kyle/phpmvc",
+    "authors": [
+        {
+            "name": "Jason-Kyle De Lara",
+            "email": "jason8oh8@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
