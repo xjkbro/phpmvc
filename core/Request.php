@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Class Router
+ * Class Request
  * @author Jason-Kyle De Lara
  * @package app\core
  */
