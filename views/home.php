@@ -1,1 +1,1 @@
-<h1 class="text-center">Homepage</h1>
+<h1 class="text-center">Welcome to the Homepage, <?php echo $name ?>!</h1>
